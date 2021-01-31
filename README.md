@@ -2,7 +2,7 @@
 
 
 
-<h1>💬 Social Media & Contact </h1>
+<h2>💬 Social Media & Contact </h2>
 <p align="center">
     <a href="https://twitter.com/Marcos_Hidalgo" target="_blank">
         <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" height="60">
