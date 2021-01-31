@@ -3,7 +3,7 @@
 
 
 <h2>💬 Social Media & Contact </h2>
-<p> Always remember you can visit my personal website <a href="markoshb.github.io" style="color:cyan">markoshb.github.io< in wich you may learn many else things about me as well as contacting me.
+<p> Always remember you can visit my personal website <a href="https://markoshb.github.io/index.html" style="color:cyan" target="blanck">markoshb.github.io</a> in wich you may learn many else things about me as well as contacting me.
 <p align="center">
     <a href="https://twitter.com/Marcos_Hidalgo" target="_blank">
         <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" height="60">
