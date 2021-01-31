@@ -1,9 +1,9 @@
 <h1>👋 Hi there! I'm Marcos Hidalgo </h1>
-
+I am studing Computer Science at the University of Málaga, Spain.
 
 
 <h2>💬 Social Media & Contact </h2>
-<p> Always remember you can visit my personal <a href="https://markoshb.github.io/index.html" style="color:cyan" target="blank">website</a> in wich you may learn many else things about me as well as contacting me.
+<p> Always remember you can visit my personal <a href="https://markoshb.github.io/index.html" style="color:cyan" target="blank">website</a> in which you may learn many else things about me as well as contacting me.
 <p align="center">
     <a href="https://twitter.com/Marcos_Hidalgo" target="_blank">
         <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" height="60">
