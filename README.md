@@ -14,8 +14,7 @@
     height="60">
     </a>  &nbsp;&nbsp;
     <a href="https://MarkosHB.github.io/" target="_blank">
-        <img src="https://drive.google.com/file/d/1EL5X0q00zmKqE_LLhzd2TphRdcExZjmG/view?usp=sharing" 
-    height="60">
+        <img src="https://drive.google.com/file/d/1EL5X0q00zmKqE_LLhzd2TphRdcExZjmG/view?usp=sharing">
     </a>
 </p>
 <!--
