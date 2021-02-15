@@ -1,8 +1,13 @@
 <h1>👋 Hi there! I'm Marcos Hidalgo </h1>
 I am studing Computer Science at the University of Málaga, Spain.
 
+<h2>💻 Projects </h2>
+<a href="https://markoshb.github.io/projects.html" style="color:cyan" target="blank"> </a>. Check them out!
 
-<h2>💬 Social Media & Contact </h2>
+<h2>💬 More about me </h2>
+<a href="https://markoshb.github.io/moreAboutMe.html" style="color:cyan" target="blank"> </a>. You will learn something new about me for sure!
+
+<h2>📫 Social Media & Contact </h2>
 <p> Always remember you can visit my personal <a href="https://markoshb.github.io/index.html" style="color:cyan" target="blank">website</a> in which you may learn many else things about me as well as contacting me.
 <p align="center">
     <a href="https://twitter.com/Marcos_Hidalgo" target="_blank">
