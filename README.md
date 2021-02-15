@@ -5,7 +5,7 @@ I am studing Computer Science at the University of Málaga, Spain.
 On my section <a href="https://markoshb.github.io/projects.html" style="color:cyan" target="blank"> projects</a> you can find a compilation of works I develop through my professional stage. Check them out!
 
 <h2>💬 Learn more about me </h2>
-Interested on knowing me deeply? Take a look at my section <a href="https://markoshb.github.io/moreAboutMe.html" style="color:cyan" target="blank"> more about me</a> at my website. You will learn something new about me for sure!
+Interested on knowing me deeply? Take a look at my section <a href="https://markoshb.github.io/moreAboutMe.html" style="color:cyan" target="blank"> more about me</a> at my website. You will learn something new for sure!
 
 <h2>📫 Social Media & Contact </h2>
 <p> Always remember you can visit my personal <a href="https://markoshb.github.io/index.html" style="color:cyan" target="blank">website</a> in which you may learn many else things about me as well as contacting me.
