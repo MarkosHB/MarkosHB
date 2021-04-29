@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm [Marcos Hidalgo][website] 
-## As I usually say... "Always learning and improving" 📚 + 💻 =  📈
+### As I usually say... "Always learning and improving" 📚 + 💻 =  📈
 
 <br>
 
