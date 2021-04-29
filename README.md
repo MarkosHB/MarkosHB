@@ -6,13 +6,17 @@
 * 💻 Attempting to become a Data Scientist or Cyber Security Specialist
 * 📄 Get to know about my experiences in CV
 
-In love with 
 
-<img src="https://img.shields.io/badge/Robotics-brown">  <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Machine Learning-purple"> <img src="https://img.shields.io/badge/Computer Vision-blue"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-cian"> 
+### Formation and studies 
+#### 🚀 MOOC 
+>  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
+
+>  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses
+
+>  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course
 
 
-### Recent achievements 🏆
-* 🔓 Official launch of my first **[webpage][website]** that contains a lot of extra information about me
+
 
 
 ### Languages and Tools 
@@ -53,15 +57,9 @@ In love with
 
 <br />
 
-### Formation and studies 
-#### 📜 MOOC 
->  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
 
->  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses
-
->  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course
-
-
+### Recent achievements 🏆
+* 🔓 Official launch of my first **[webpage][website]** that contains a lot of extra information about me
 
 
 <br />
