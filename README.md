@@ -19,9 +19,12 @@
 <br /> <br />
 
 ### Formation and studies 
-*    #### MOOC 
-    * 📜 Certificate by University of Granada in online  "Machine Learning and Big Data in Bioinformatics" 
-    * 📜 Certificate by University of Michigan in Phyton4Everybody 
+#### MOOC 
+> 📜 Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
+
+> 📜 Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses
+
+> 📜 Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course
 
 <br />
 
