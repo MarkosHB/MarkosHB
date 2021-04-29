@@ -13,7 +13,7 @@
 
   
 
-## I am...
+### I am...
 *
 
 <br>
@@ -22,7 +22,7 @@
 
 <br>
 
-## Recent achievements 🏆
+### Recent achievements 🏆
 *
 On my section <a href="https://markoshb.github.io/projects.html" style="color:cyan" target="blank"> projects</a> you can find a compilation of works I develop through my professional stage. Check them out!
 
@@ -33,13 +33,11 @@ On my section <a href="https://markoshb.github.io/projects.html" style="color:cy
 
 <br>
 
-## 💬 Learn more about me 
+### 💬 Learn more about me 
 *
 Interested on knowing me deeply? Take a look at my section <a href="https://markoshb.github.io/moreAboutMe.html" style="color:cyan" target="blank"> more about me</a> at my website. You will learn something new for sure!
 
 <br>
-
----
 
 <br>
 
