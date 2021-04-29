@@ -32,11 +32,10 @@
 
 <ul>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo_) 
-
-![GitHub followers](https://img.shields.io/github/followers/MarkosHB?style=social) 
-
-[![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)
+![GitHub followers](https://img.shields.io/github/followers/MarkosHB?style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo_)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
 
 </ul>
 
