@@ -1,8 +1,6 @@
 # 👋 Hello there! I'm [Marcos Hidalgo][website] 
 ### As I usually say... "Always learning and improving" 📚 + 💻 =  📈
 
-<br>
-
 ### I am...
 * 🎓Currently studing second year of Computer Science at  **[University of Málaga](https://www.uma.es/#gsc.tab=0)**
 * 💻 Attempting to become a Data Scientist or Cyber Security Specialist
@@ -19,12 +17,12 @@
 <br /> <br />
 
 ### Formation and studies 
-#### MOOC 
-> 📜 Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
+#### 📜 MOOC 
+>  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
 
-> 📜 Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses
+>  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses
 
-> 📜 Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course
+>  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course
 
 <br />
 
