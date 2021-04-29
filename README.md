@@ -1,31 +1,18 @@
 # 👋 Hello there! I'm [Marcos Hidalgo][website] 
-### I study Computer Science at the University of Málaga.
 
 <br>
 
-<ul>
-    <a href="https://twitter.com/Marcos_Hidalgo_" target="blank"><img src="icons/twitter.svg" alt="xtenzq" width="22px" /></a> Active profile with interesting content about science-technology and politics-philosophy
-</ul>
-<ul>
-    <a href="https://www.linkedin.com/in/marcoshidalgob" target="blank"><img src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a> Proffesional interests focus it is a great place to know my achievements in studies and in life 
-</ul>
 
-
-  
+<a href="https://twitter.com/Marcos_Hidalgo_" target="blank"><img src="icons/twitter.svg" alt="xtenzq" width="22px" /></a> 
+<a href="https://www.linkedin.com/in/marcoshidalgob" target="blank"><img src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
 
 ### I am...
-*
+* Currently studing second year of Computer Science at  **[University of Málaga](https://www.uma.es/#gsc.tab=0)**
+* Attempting to become a Data Scientist or Cyber Security Specialist
 
-<br>
-
-
-
-<br>
 
 ### Recent achievements 🏆
-*
-On my section <a href="https://markoshb.github.io/projects.html" style="color:cyan" target="blank"> projects</a> you can find a compilation of works I develop through my professional stage. Check them out!
-
+* Official launch of my first [webpage][website] that contains a lot of extra information about me
 
 <br>
 
@@ -33,9 +20,6 @@ On my section <a href="https://markoshb.github.io/projects.html" style="color:cy
 
 <br>
 
-### 💬 Learn more about me 
-*
-Interested on knowing me deeply? Take a look at my section <a href="https://markoshb.github.io/moreAboutMe.html" style="color:cyan" target="blank"> more about me</a> at my website. You will learn something new for sure!
 
 <br>
 
