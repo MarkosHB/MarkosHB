@@ -26,7 +26,7 @@
 
 <br />
 
----
+
 
 <br />
 
@@ -39,8 +39,13 @@
 
 </ul>
 
+<br />
 
+---
+
+<br />
 
 <!-- LINKS -->
 [website]: https://markoshb.github.io/
+
 
