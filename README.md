@@ -1,10 +1,7 @@
 # 👋 Hello there! I'm [Marcos Hidalgo][website] 
-<blockquote> <h2 style="text-align: center"> Always learning 📚 and improving 📈 </h2> </blockquote>
+## As I usually say... "Always learning and improving" 📚 + 💻 =  📈
 
 <br>
-
-<a href="https://twitter.com/Marcos_Hidalgo_" target="blank"><img src="icons/twitter.svg" alt="MarkosHB" width="22px" /></a> <a href="https://www.linkedin.com/in/marcoshidalgob" target="blank"><img src="icons/linkedin.svg" alt="MarkosHB" width="22px" /></a>
-
 
 ### I am...
 * 🎓Currently studing second year of Computer Science at  **[University of Málaga](https://www.uma.es/#gsc.tab=0)**
@@ -17,15 +14,12 @@
 
 
 ### Languages and Tools 
-
 <img align="left" src="icons/java.svg" />
 
-<br />
-
-<br />
+<br /> <br />
 
 ### Formation and studies 
-*    <h3> MOOC </h3>
+*    #### MOOC 
     * 📜 Certificate by University of Granada in online  "Machine Learning and Big Data in Bioinformatics" 
     * 📜 Certificate by University of Michigan in Phyton4Everybody 
 
