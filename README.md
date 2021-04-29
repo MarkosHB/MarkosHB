@@ -1,6 +1,9 @@
-# 👋 Hello there! I'm [Marcos Hidalgo][website] 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo)
+# 👋 Hello there! I'm [Marcos Hidalgo][website] [![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo)
+
 I am studing Computer Science at the University of Málaga, Spain.
+
+<br/>
+
 
 ## 💻 Discover my main projects 
 On my section <a href="https://markoshb.github.io/projects.html" style="color:cyan" target="blank"> projects</a> you can find a compilation of works I develop through my professional stage. Check them out!
@@ -15,12 +18,7 @@ The best way of making contact with me is through this <a href="https://markoshb
    
    
    
-    <a href="https://www.linkedin.com/in/marcoshidalgob" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="60">
-    </a>  &nbsp;&nbsp;
-    <a href="https://MarkosHB.github.io/" target="_blank">
-    </a>
-</p>
+
 
 <!-- LINKS -->
 [website]: https://markoshb.github.io/
