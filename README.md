@@ -10,9 +10,9 @@
 ### Formation and studies 
 #### 🚀 MOOCs 
 *  **[NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)** by NVIDIA Deep Learning Institute
-*  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
 *  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses
 *  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course
+*  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
 
 
 ### Languages and Tools 
