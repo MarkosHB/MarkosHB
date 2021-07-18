@@ -2,17 +2,17 @@
 ### As I usually say... "Always learning and improving" 📚 + 💻 =  📈
 
 ### I am...
-* 🎓Currently studing second year of Computer Science at  **[University of Málaga](https://www.uma.es/#gsc.tab=0)**
-* 💻 Attempting to become a Data Scientist or Cyber Security Specialist
-* 📄 Get to know about my experiences in CV
+* 🎓Currently studing third year of Computer Science at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**.
+* 💻 Attempting to become a Data Scientist or Cyber Security Specialist.
+* 📄 Check my **[CV][website]** for more info.
 
 
 ### Formation and studies 
 #### 🚀 MOOCs 
-*  **[NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)** by NVIDIA Deep Learning Institute
-*  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses
-*  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course
-*  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics" 
+*  **[NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)** by NVIDIA Deep Learning Institute.
+*  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses.
+*  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course.
+*  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics".
 
 
 ### Languages and Tools 
@@ -33,6 +33,7 @@
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
 &nbsp;&nbsp;&nbsp;
+
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;
@@ -48,11 +49,11 @@
 -->
 
 ### Recent achievements 🏆
-> 🔓 Official launch of my first **[webpage][website]** that contains a lot of extra information about me
+> 🔓 Official launch of my first **[webpage][website]** that contains a lot of extra information about me.
 
 
 ### Short term goals
-> Finish my college term successfully
+> Finish my college term successfully.
 
 
 <br />
