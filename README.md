@@ -1,4 +1,5 @@
-# 👋 Hello there! I'm [Marcos Hidalgo][website] 
+# 👋 Hello there! I'm [Marcos Hidalgo][website] &nbsp;&nbsp;&nbsp;&nbsp;[![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo_)&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp;  <a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+
 ### As I usually say... "Always learning and improving" 📚 + 💻 =  📈
 
 ### I am...
@@ -10,7 +11,7 @@
 ### Formation and studies 
 #### 🚀 MOOCs 
 *  **[NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)** by NVIDIA Deep Learning Institute.
-*  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization of five courses.
+*  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization made of five courses.
 *  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course.
 *  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics".
 
@@ -57,21 +58,8 @@
 
 
 <br />
-<br />
-
-
-<ul>
-
-![GitHub followers](https://img.shields.io/github/followers/MarkosHB?style=social)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo_)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
-
-</ul>
 
 ---
-
-<br />
 
 <!-- LINKS -->
 [website]: https://markoshb.github.io/
