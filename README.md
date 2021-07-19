@@ -1,6 +1,10 @@
-# 👋 Hello there! I'm [Marcos Hidalgo][website] &nbsp;&nbsp;&nbsp;&nbsp;[![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo_)&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp;  <a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
-
+# 👋 Hello there! I'm [Marcos Hidalgo][website] 
 ### As I usually say... "Always learning and improving" 📚 + 💻 =  📈
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Marcos_Hidalgo_?color=%231DA1F2&label=Marcos%20Hidalgo&logo=twitter&style=plastic)](https://twitter.com/Marcos_Hidalgo_)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+
 
 ### I am...
 * 🎓Currently studing third year of Computer Science at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**.
@@ -17,7 +21,6 @@
 
 
 ### Languages and Tools 
-<br>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
@@ -59,7 +62,10 @@
 
 <br />
 
+
 ---
+
+
 
 <!-- LINKS -->
 [website]: https://markoshb.github.io/
