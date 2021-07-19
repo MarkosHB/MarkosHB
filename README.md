@@ -60,12 +60,7 @@
 > Finish my college term successfully.
 
 
-<br />
-
-
 ---
-
-
 
 <!-- LINKS -->
 [website]: https://markoshb.github.io/
