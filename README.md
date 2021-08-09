@@ -16,6 +16,7 @@
 #### 🚀 MOOCs 
 *  **[NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)** by NVIDIA Deep Learning Institute.
 *  **[ NVIDIA DLI Certificate – Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/fa23c9b1177f481e98165b17fb69fc9d)** by NVIDIA Deep Learning Institute.
+*  **[NVIDIA DLI Certificate – Getting Started with DeepStream for Video Analytics on Jetson Nano](https://courses.nvidia.com/certificates/22239167c9994f60884829f671b29c3a)** by NVIDIA Deep Learning Institute.
 *  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization made of five courses.
 *  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course.
 *  Certificate by University of Granada in "Machine Learning and Big Data in Bioinformatics".
