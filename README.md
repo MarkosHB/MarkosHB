@@ -7,7 +7,7 @@
 
 
 ### I am...
-* 🎓Currently studing third year of Computer Science at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**.
+* 🎓 Currently studing third year of Computer Science at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**.
 * 💻 Attempting to become a Data Scientist or Cyber Security Specialist.
 * 📄 Check my **[CV][website]** for more info.
 
