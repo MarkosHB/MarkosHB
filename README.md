@@ -8,7 +8,7 @@
 
 ### I am...
 * Currently studing third year of Computer Science at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**.
-* **[Oasis Network Ambassador]**(https://oasisprotocol.org/).
+* Active **[Oasis Network Ambassador](https://oasisprotocol.org/)** and foundator of the Oasis Community in Málaga.
 * Entusiast of Computer Vision, Robotics and AI.
 <!--
 * 📄 Check my **[CV][website]** for more info.
