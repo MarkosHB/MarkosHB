@@ -57,7 +57,7 @@
 
 
 #### 🎓 My subjects at College
-*  Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**. Click on the blue links to see my work on the subject.
+Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**. Click on the blue links to see my work on the subject.
 
 <table>
     <thead align="center">
@@ -126,7 +126,7 @@
         </tr>
         <tr>
             <td>Procesadores de Lenguajes</td>
-            <td><a href="" target="_blank" rel="noopener noreferrer">Sistemas de Información para Internet</a></td>
+            <td><a href="https://github.com/MarkosHB/Digital-Solutions" target="_blank" rel="noopener noreferrer">Sistemas de Información para Internet</a></td>
         </tr>
         <tr>
             <td>Seguridad de la Información</td>
