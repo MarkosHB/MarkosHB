@@ -46,9 +46,9 @@
 ### Formation and studies.
 
 #### 🚀 MOOCs 
-*  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization made of five courses.
+*  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization made up of five courses.
 *  Certificate by University of Granada in **[Machine Learning and Big Data in Bioinformatics](https://abierta.ugr.es/course/view.php?id=57)**.
-*  Certificate by University of Helsinky in **[Elements of AI](https://course.elementsofai.com/)** online introductory course.
+*  Certificate by University of Helsinki in **[Elements of AI](https://course.elementsofai.com/)** online introductory course.
 
 #### 💻 NVIDIA Deep Learning Institute 
 *  **[NVIDIA DLI Certificate – Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/fa23c9b1177f481e98165b17fb69fc9d)**
