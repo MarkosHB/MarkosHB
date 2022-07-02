@@ -13,11 +13,12 @@
 
 ### Programming Habilities.
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Cpp](https://img.shields.io/badge/C%20/%20C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
+![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-3776AB.svg?&style=flat&logo=haskell&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R%20Language-003B57.svg?&style=flat&logo=R&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-003B57.svg?&style=flat&logo=R&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;
 
@@ -25,6 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-181717?style=flat&logo=linux)&nbsp;
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;
 
 <!--
@@ -162,10 +164,6 @@ Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab
         -->
     </tbody>
 </table>
-
-
-
----
 
 <!-- LINKS -->
 [website]: https://markoshb.github.io/
