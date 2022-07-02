@@ -17,9 +17,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-905020.svg?&style=flat&logo=Matlab&logoColor=white)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-3776AB.svg?&style=flat&logo=haskell&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-003B57.svg?&style=flat&logo=R&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)&nbsp;
