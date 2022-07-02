@@ -9,9 +9,7 @@
 ### I am...
 * Currently studing third year of Computer Science at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**.
 * Entusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
-<!--
-* 📄 Check my **[CV][website]** for more info.
--->
+* 📄 Check my **[Curriculum Vitae](./MarcosHidalgoCV.pdf)** for more info.
 
 ### Programming Habilities.
 
