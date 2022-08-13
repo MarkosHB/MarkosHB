@@ -11,7 +11,7 @@
 * Entusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
 * 📄 Check my **[Curriculum Vitae](./MarcosHidalgoCV.pdf)** for more info.
 
-### Programming Habilities.
+### Programming habilities.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
@@ -31,16 +31,19 @@
 &nbsp;&nbsp;&nbsp;
 
 <!--
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)&nbsp;
-&nbsp;&nbsp;&nbsp;
+
+    ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)&nbsp;
+    ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)&nbsp;
+    &nbsp;&nbsp;&nbsp;
+
+
+    ### Recent achievements. 🏆
+    > 🔓 Official launch of my first **[webpage][website]** that contains a lot of extra information about me.
+
+    ### Short term goals.
+    > Finish my college term successfully.
+
 -->
-
-### Recent achievements. 🏆
-> 🔓 Official launch of my first **[webpage][website]** that contains a lot of extra information about me.
-
-### Short term goals.
-> Finish my college term successfully.
 
 ---
 
@@ -52,9 +55,9 @@
 *  Certificate by University of Helsinki in **[Elements of AI](https://course.elementsofai.com/)** online introductory course.
 
 #### 💻 NVIDIA Deep Learning Institute 
-*  **[NVIDIA DLI Certificate – Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/fa23c9b1177f481e98165b17fb69fc9d)**
-*  **[NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)** 
-*  **[NVIDIA DLI Certificate – Getting Started with DeepStream for Video Analytics on Jetson Nano](https://courses.nvidia.com/certificates/22239167c9994f60884829f671b29c3a)** 
+*  **NVIDIA DLI Certificate – [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/fa23c9b1177f481e98165b17fb69fc9d)**
+*  **NVIDIA DLI Certificate – [Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)** 
+*  **NVIDIA DLI Certificate – [Getting Started with DeepStream for Video Analytics on Jetson Nano](https://courses.nvidia.com/certificates/22239167c9994f60884829f671b29c3a)** 
 
 
 #### 🎓 My subjects at College
