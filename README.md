@@ -62,7 +62,7 @@
 
 
 #### 🎓 My subjects at College
-- Computer Science at the University of Málaga. Click on this [link](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) to see my projects.
+- Computer Science Degree at the University of Málaga. Click on this [link](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) to see my projects.
 
 
 <!-- LINKS -->
