@@ -39,7 +39,7 @@ Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab
         </tr>
         <tr>
             <td rowspan="5">Year II</td>
-            <td>Análisis y Diseño de Algoritmos</td>
+            <td><a href="https://github.com/MarkosHB/Analysis-and-design-of-Algorithms-Subject" target="_blank" rel="noopener noreferrer">Análisis y Diseño de Algoritmos</td>
             <td><a href="https://github.com/MarkosHB/MyReminder" target="_blank" rel="noopener noreferrer">Introducción a la Ingeniería del Software</td>
         </tr>
         <tr>
@@ -48,7 +48,7 @@ Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab
         </tr>
         <tr>
             <td><a href="https://github.com/MarkosHB/RaspberryPi-Lullaby" target="_blank" rel="noopener noreferrer">Estructura de Computadores</a></td>
-            <td>Redes y Sistemas Distribuidos</td>
+            <td><a href="https://github.com/MarkosHB/Networked-and-Distributed-Systems" target="_blank" rel="noopener noreferrer">Redes y Sistemas Distribuidos</a></td>
         </tr>
         <tr>
             <td>Estructura de Datos</td>
@@ -85,24 +85,26 @@ Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab
         <tr>
             <td colspan="4"></td>
         </tr>
-        <!--
         <tr>
-            <td rowspan="4">Year IV</td>
-            <td><b><a href="https://github.com/15Galan/mencion-430" target="_blank" rel="noopener noreferrer">Administración de Sistemas Operativos</a></b></td>
-            <td><a href="https://github.com/15Galan/asignatura-401" target="_blank" rel="noopener noreferrer">Proyectos y Legislación</a></td>
+            <td rowspan="5">Year IV</td>
+            <td>Robótica</td>
+            <td></td>
         </tr>
         <tr>
-            <td><b>Diseño y Evaluación de Infraestructuras Informáticas</b></td>
-            <td><i>Arquitecturas Clúster</i></td>
+            <td>Aprendizaje Computacional</td> 
+            <td><a href="https://github.com/MarkosHB/Professional-and-Legal-Issues-Subject" target="_blank" rel="noopener noreferrer">Proyectos y Legislación</a></td>
         </tr>
         <tr>
-            <td><b><a href="https://github.com/15Galan/mencion-432" target="_blank" rel="noopener noreferrer">Planificación de Proyectos y Análisis de Riesgos</a></b></td>
-            <td><i>Prácticas Externas</i></td>
+            <td>Teoría de los Lenguajes de Programación</td>
+            <td>Prácticas Externas</td>
         </tr>
-        <tr>
-            <td><b>Tecnología de los Sistemas de Producción</b></td>
+        <tr>            
+            <td>Modelos de la Computación</td>
             <td>T.F.G</td>
         </tr>
-        -->
+        <tr>
+            <td><a href="https://github.com/MarkosHB/Theory-of-Information-and-Coding-Subject" target="_blank" rel="noopener noreferrer">Teoría de la Información y la Codificación</a></td>
+            <td></td>
+        </td>
     </tbody>
 </table>
