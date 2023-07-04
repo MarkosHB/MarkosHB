@@ -9,7 +9,7 @@
 ### I am...
 * Ending up my Computer Science degree at [University of Malaga](https://www.uma.es/#gsc.tab=0).
 * Ready to begin with my professional stage after college.
-* An etusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
+* An enthusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
 
 Check my 📄[Curriculum Vitae][curriculum] for more info.
 
