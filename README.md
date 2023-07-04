@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm [Marcos Hidalgo][website] 
+# 👋 Hello there! I'm [Marcos Hidalgo][curriculum] 
 ### As I usually say... "Always learning and improving" 📚 + 💻 =  📈
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/marcoshidalgob?color=%231DA1F2&label=Twitter&logo=twitter&style=plastic)](https://twitter.com/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7,9 +7,13 @@
 
 
 ### I am...
-* Currently studing third year of Computer Science at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**.
-* Entusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
-* 📄 Check my **[Curriculum Vitae](./MarcosHidalgoCV.pdf)** for more info.
+* Ending up my Computer Science degree at [University of Malaga](https://www.uma.es/#gsc.tab=0).
+* Ready to begin with my professional stage after college.
+* An etusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
+
+Check my 📄[Curriculum Vitae][curriculum] for more info.
+
+---
 
 ### Programming habilities.
 
@@ -30,27 +34,13 @@
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;
 
-<!--
-
-    ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)&nbsp;
-    ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)&nbsp;
-    &nbsp;&nbsp;&nbsp;
-
-
-    ### Recent achievements. 🏆
-    > 🔓 Official launch of my first **[webpage][website]** that contains a lot of extra information about me.
-
-    ### Short term goals.
-    > Finish my college term successfully.
-
--->
-
----
 
 ### Formation and studies.
 
 #### 🚀 MOOCs 
+*  Certificate in **[Generative AI learning path](https://www.cloudskillsboost.google/journeys/118)** innovative course by Google Cloud Skills Boost.
 *  Certificate in **[Google Project Management](https://www.coursera.org/professional-certificates/google-project-management?)** specialization made up of six courses.
+*  Certificate in **[AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/certificate/PJSDDP553UCD)** formation course.
 *  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization made up of five courses.
 *  Certificate by University of Granada in **[Machine Learning and Big Data in Bioinformatics](https://abierta.ugr.es/course/view.php?id=57)**.
 *  Certificate by University of Helsinki in **[Elements of AI](https://course.elementsofai.com/)** online introductory course.
@@ -62,9 +52,9 @@
 
 
 #### 🎓 My subjects at College
-- Computer Science Degree at the University of Málaga. Click on this [link](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) to see my projects.
+- Computer Science degree at the University of Malaga. Click on this [link](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) to see my projects.
 
 
 <!-- LINKS -->
-[website]: https://markoshb.github.io/
+[curriculum]: ./MarcosHidalgoCV.pdf
 
