@@ -87,19 +87,19 @@ Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab
         </tr>
         <tr>
             <td rowspan="5">Year IV</td>
-            <td>Robótica</td>
+            <td><a href="https://github.com/MarkosHB/Robotics-Subject" target="_blank" rel="noopener noreferrer">Robótica</a></td>
             <td></td>
         </tr>
         <tr>
-            <td>Aprendizaje Computacional</td> 
+            <td><a href="https://github.com/MarkosHB/Machine-Learning-Subject" target="_blank" rel="noopener noreferrer">Aprendizaje Computacional</a></td> 
             <td><a href="https://github.com/MarkosHB/Professional-and-Legal-Issues-Subject" target="_blank" rel="noopener noreferrer">Proyectos y Legislación</a></td>
         </tr>
         <tr>
-            <td>Teoría de los Lenguajes de Programación</td>
+            <td><a href="https://github.com/MarkosHB/Theory-of-Programming-Languages-Subject" target="_blank" rel="noopener noreferrer">Teoría de los Lenguajes de Programación</a></td>
             <td>Prácticas Externas</td>
         </tr>
         <tr>            
-            <td>Modelos de la Computación</td>
+            <td><a href="https://github.com/MarkosHB/Computing-Models-Subject" target="_blank" rel="noopener noreferrer">Modelos de la Computación</a></td>
             <td>T.F.G</td>
         </tr>
         <tr>
