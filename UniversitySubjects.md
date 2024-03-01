@@ -1,5 +1,5 @@
 #### 🎓 My subjects at College
-Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**. Click on the blue links to see my work on the subject.
+Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**. Click on the blue links to see my repository on the subject.
 
 <table>
     <thead align="center">
@@ -15,95 +15,95 @@ Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab
         </tr>
         <tr>
             <td rowspan="5">Year I</td>
-            <td>Cálculo para la Computación</td>
-            <td>Estructuras Algebráicas</td>
+            <td>Calculus for Infomatics</td>
+            <td>Algebraic Structures for Computing</td>
         </tr>
         <tr>
-            <td>Fundamentos Físicos de la Informática</td>
-            <td>Métodos Estadísticos para la Computación</td>
+            <td>Physics Foundations of Programming</td>
+            <td>Statistical Methods for Informatics</td>
         </tr>
         <tr>
-            <td>Fundamentos de Electrónica</td>
-            <td><a href="https://github.com/MarkosHB/Fortinvent" target="_blank" rel="noopener noreferrer">Organización Empresarial<a/></td>
+            <td>Electronic Fundamentals of Informatics</td>
+            <td><a href="https://github.com/MarkosHB/Fortinvent" target="_blank" rel="noopener noreferrer">Business Organisation<a/></td>
         </tr>
         <tr>
-            <td>Fundamentos de Programación</td>
-            <td>Programación Orientada a Objetos</td>
+            <td>Foundations of Programming</td>
+            <td>Object‐oriented Programming</td>
         </tr>
         <tr>
-            <td>Matemática Discreta</td>
-            <td>Tecnología de Computadores</td>
+            <td>Discrete Mathematics</td>
+            <td>Computer Technology</td>
         </tr>
         <tr>
             <td colspan="4"></td>
         </tr>
         <tr>
             <td rowspan="5">Year II</td>
-            <td><a href="https://github.com/MarkosHB/Analysis-and-design-of-Algorithms-Subject" target="_blank" rel="noopener noreferrer">Análisis y Diseño de Algoritmos</td>
-            <td><a href="https://github.com/MarkosHB/MyReminder" target="_blank" rel="noopener noreferrer">Introducción a la Ingeniería del Software</td>
+            <td><a href="https://github.com/MarkosHB/Analysis-and-design-of-Algorithms-Subject" target="_blank" rel="noopener noreferrer">Analysis and Design of Algorithms</td>
+            <td><a href="https://github.com/MarkosHB/MyReminder" target="_blank" rel="noopener noreferrer">Introduction to Software Engineering</td>
         </tr>
         <tr>
-            <td>Bases de Datos</td>
-            <td>Programación y Sistemas de Concurrencia</td>
+            <td>Databases</td>
+            <td>Concurrent Programming</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/MarkosHB/RaspberryPi-Lullaby" target="_blank" rel="noopener noreferrer">Estructura de Computadores</a></td>
-            <td><a href="https://github.com/MarkosHB/Networked-and-Distributed-Systems" target="_blank" rel="noopener noreferrer">Redes y Sistemas Distribuidos</a></td>
+            <td><a href="https://github.com/MarkosHB/RaspberryPi-Lullaby" target="_blank" rel="noopener noreferrer">Computer Structure</a></td>
+            <td><a href="https://github.com/MarkosHB/Networked-and-Distributed-Systems" target="_blank" rel="noopener noreferrer">Networked and Distributed Systems</a></td>
         </tr>
         <tr>
-            <td>Estructura de Datos</td>
-            <td>Sistemas Inteligentes I</td>
+            <td>Data Structures</td>
+            <td>Intelligent Systems I</td>
         </tr>
         <tr>
-            <td>Teoría de Autómatas y Lenguajes Formales</td>
-            <td><a href="https://github.com/MarkosHB/Operating-Systems-Subject" target="_blank" rel="noopener noreferrer">Sistemas Operativos</a></td>
+            <td>Automata Theory and Formal Languages</td>
+            <td><a href="https://github.com/MarkosHB/Operating-Systems-Subject" target="_blank" rel="noopener noreferrer">Operating Systems</a></td>
         </tr>
         <tr>
             <td colspan="4"></td>
         </tr>
         <tr>
             <td rowspan="5">Year III</td>
-            <td><a href="https://github.com/MarkosHB/Information-Systems-Subject" target="_blank" rel="noopener noreferrer">Introducción a los Sistemas de Información</a></td>
-            <td>Administración de Bases de Datos</td>
+            <td><a href="https://github.com/MarkosHB/Information-Systems-Subject" target="_blank" rel="noopener noreferrer">Introduction to Information Systems</a></td>
+            <td>Database Administration</td>
         </tr>
         <tr>
-            <td>Procesadores de Lenguajes</td>
-            <td><a href="https://github.com/MarkosHB/Digital-Solutions" target="_blank" rel="noopener noreferrer">Sistemas de Información para Internet</a></td>
+            <td>Language Processors</td>
+            <td><a href="https://github.com/MarkosHB/Digital-Solutions" target="_blank" rel="noopener noreferrer">Internet Information Systems</a></td>
         </tr>
         <tr>
-            <td>Seguridad de la Información</td>
-            <td>Sistemas Inteligentes II</td>
+            <td>Information Security</td>
+            <td>Intelligent Systems II</td>
         </tr>
         <tr>
-            <td>Lógica Computacional</td>
-            <td><a href="https://github.com/MarkosHB/Computational-Complexity-Subject" target="_blank" rel="noopener noreferrer">Algoritmia y Complejidad</a></td>      
+            <td>Computational Logic</td>
+            <td><a href="https://github.com/MarkosHB/Computational-Complexity-Subject" target="_blank" rel="noopener noreferrer">Algorithmics and Complexity</a></td>      
         </tr>
         <tr>
-            <td><a href="https://github.com/MarkosHB/Mouse-Management-using-OpenCV" target="_blank" rel="noopener noreferrer">Visión por Computador</a></td>
-            <td><a href="https://github.com/MarkosHB/Robot-Programming-Subject" target="_blank" rel="noopener noreferrer">Programación de Robots</a></td>
+            <td><a href="https://github.com/MarkosHB/Mouse-Management-using-OpenCV" target="_blank" rel="noopener noreferrer">Computer Vision</a></td>
+            <td><a href="https://github.com/MarkosHB/Robot-Programming-Subject" target="_blank" rel="noopener noreferrer">Robot Programming</a></td>
         </tr>
         <tr>
             <td colspan="4"></td>
         </tr>
         <tr>
             <td rowspan="5">Year IV</td>
-            <td><a href="https://github.com/MarkosHB/Robotics-Subject" target="_blank" rel="noopener noreferrer">Robótica</a></td>
+            <td><a href="https://github.com/MarkosHB/Robotics-Subject" target="_blank" rel="noopener noreferrer">Robotics</a></td>
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/MarkosHB/Machine-Learning-Subject" target="_blank" rel="noopener noreferrer">Aprendizaje Computacional</a></td> 
-            <td><a href="https://github.com/MarkosHB/Professional-and-Legal-Issues-Subject" target="_blank" rel="noopener noreferrer">Proyectos y Legislación</a></td>
+            <td><a href="https://github.com/MarkosHB/Machine-Learning-Subject" target="_blank" rel="noopener noreferrer">Machine-Learning</a></td> 
+            <td><a href="https://github.com/MarkosHB/Professional-and-Legal-Issues-Subject" target="_blank" rel="noopener noreferrer">Professional-and-Legal-Issues</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/MarkosHB/Theory-of-Programming-Languages-Subject" target="_blank" rel="noopener noreferrer">Teoría de los Lenguajes de Programación</a></td>
-            <td>Prácticas Externas</td>
+            <td><a href="https://github.com/MarkosHB/Theory-of-Programming-Languages-Subject" target="_blank" rel="noopener noreferrer">Theory-of-Programming-Languages</a></td>
+            <td>Internship</td>
         </tr>
         <tr>            
-            <td><a href="https://github.com/MarkosHB/Computing-Models-Subject" target="_blank" rel="noopener noreferrer">Modelos de la Computación</a></td>
-            <td>T.F.G</td>
+            <td><a href="https://github.com/MarkosHB/Computing-Models-Subject" target="_blank" rel="noopener noreferrer">Computing-Models</a></td>
+            <td>Final year projects</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/MarkosHB/Theory-of-Information-and-Coding-Subject" target="_blank" rel="noopener noreferrer">Teoría de la Información y la Codificación</a></td>
+            <td><a href="https://github.com/MarkosHB/Theory-of-Information-and-Coding-Subject" target="_blank" rel="noopener noreferrer">Theory-of-Information-and-Coding</a></td>
             <td></td>
         </td>
     </tbody>
