@@ -5,7 +5,7 @@
 
 <a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a> 
 &nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)
-&nbsp;&nbsp; ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/marcoshidalgob)
+&nbsp;&nbsp; [![X Follow](https://img.shields.io/twitter/follow/marcoshidalgob)](https://twitter.com/marcoshidalgob)
 &nbsp;&nbsp; [![Github Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FMarkosHB)](https://github.com/MarkosHB)
 
 ### As I usually say... "Always learning and improving" 💻 + 📖 = 📈
