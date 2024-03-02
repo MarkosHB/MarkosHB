@@ -1,11 +1,14 @@
 # 👋 Hello there! I'm [Marcos Hidalgo](https://github.com/MarkosHB) 
+
+[![hackthebox stats](http://www.hackthebox.eu/badge/image/1866797)][hackthebox]
+&nbsp;&nbsp; [![tryhackme stats](https://raw.githubusercontent.com/MarkosHB/MarkosHB/master/assets/thm_propic.png)][tryhackme]
+
+<a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a> 
+&nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)
+&nbsp;&nbsp; ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/marcoshidalgob)
+&nbsp;&nbsp; [![Github Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FMarkosHB)](https://github.com/MarkosHB)
+
 ### As I usually say... "Always learning and improving" 💻 + 📖 = 📈
-
-<a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp;
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/marcoshidalgob)
-
-![tryhackme stats](https://raw.githubusercontent.com/MarkosHB/MarkosHB/master/assets/thm_propic.png)
 
 ### I am...
 * Ending up my Computer Science degree at [University of Málaga](https://www.uma.es/#gsc.tab=0).
@@ -72,3 +75,5 @@ Check my 📄[Curriculum Vitae][curriculum] for more info all in one place.
 
 <!-- LINKS -->
 [curriculum]: ./MarcosHidalgoCV.pdf
+[tryhackme]: https://tryhackme.com/p/MarkosHB
+[hackthebox]: https://app.hackthebox.com/profile/1866797
