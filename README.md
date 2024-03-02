@@ -5,6 +5,8 @@
 [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)&nbsp;&nbsp;&nbsp;&nbsp;
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/marcoshidalgob)
 
+![tryhackme stats](https://raw.githubusercontent.com/MarkosHB/MarkosHB/master/assets/thm_propic.png)
+
 ### I am...
 * Ending up my Computer Science degree at [University of Málaga](https://www.uma.es/#gsc.tab=0).
 * Ready to begin with my professional stage after college.
