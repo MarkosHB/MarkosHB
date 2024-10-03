@@ -1,7 +1,9 @@
 # 👋 Hello there! I'm [Marcos Hidalgo](https://github.com/MarkosHB) 
 
+<!-- 
 [![hackthebox stats](http://www.hackthebox.eu/badge/image/1866797)][hackthebox]
 &nbsp;&nbsp; [![tryhackme stats](https://raw.githubusercontent.com/MarkosHB/MarkosHB/master/assets/thm_propic.png)][tryhackme]
+-->
 
 <a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a> 
 &nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)
@@ -11,7 +13,7 @@
 ### As I usually say... "Always learning and improving" 💻 + 📖 = 📈
 
 ### I am...
-* Ending up my Computer Science degree at [University of Málaga](https://www.uma.es/#gsc.tab=0).
+* A Computer Science Engineer graduated from the University of Málaga.
 * Ready to begin with my professional stage after college.
 * An enthusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
 
@@ -70,8 +72,8 @@ Check my 📄[Curriculum Vitae][curriculum] for more info all in one place.
 *  **NVIDIA DLI Certificate – [Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)**. 
 *  **NVIDIA DLI Certificate – [Getting Started with DeepStream for Video Analytics on Jetson Nano](https://courses.nvidia.com/certificates/22239167c9994f60884829f671b29c3a)**.
 
-#### 🎓 My subjects at College.
-- Computer Science degree at the University of Malaga, Computing Major. Click on this [link](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) to see my subject's repositories.
+#### 🎓 My stage at College.
+* Check out my [subject's repositories](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md).
 
 <!-- LINKS -->
 [curriculum]: ./MarcosHidalgoCV.pdf
