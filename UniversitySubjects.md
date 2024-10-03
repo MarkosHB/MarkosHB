@@ -1,5 +1,5 @@
-#### 🎓 My subjects at College
-Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab=0)**. Click on the blue links to see my repository on the subject.
+#### 🎓 My subjects at College.
+
 
 <table>
     <thead align="center">
@@ -96,11 +96,11 @@ Computer Science degree at **[University of Málaga](https://www.uma.es/#gsc.tab
         </tr>
         <tr>
             <td><a href="https://github.com/MarkosHB/Theory-of-Programming-Languages-Subject" target="_blank" rel="noopener noreferrer">Theory-of-Programming-Languages</a></td>
-            <td>Internship</td>
+            <td>Internship (Hispasec)</td>
         </tr>
         <tr>            
             <td><a href="https://github.com/MarkosHB/Computing-Models-Subject" target="_blank" rel="noopener noreferrer">Computing-Models</a></td>
-            <td>Final year projects</td>
+            <td><a href="https://github.com/MarkosHB/Final-Year-Project" target="_blank" rel="noopener noreferrer">Final Year Project</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/MarkosHB/Theory-of-Information-and-Coding-Subject" target="_blank" rel="noopener noreferrer">Theory-of-Information-and-Coding</a></td>
