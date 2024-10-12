@@ -1,64 +1,39 @@
 # 👋 Hello there! I'm [Marcos Hidalgo](https://github.com/MarkosHB) 
 
-<!-- 
-[![hackthebox stats](http://www.hackthebox.eu/badge/image/1866797)][hackthebox]
-&nbsp;&nbsp; [![tryhackme stats](https://raw.githubusercontent.com/MarkosHB/MarkosHB/master/assets/thm_propic.png)][tryhackme]
--->
+### As I usually say... "Always learning and improving"
 
-<a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a> 
-&nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgobcolor=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)
+<a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white"/></a> 
+&nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/twitter/url?url=https://www.linkedin.com/in/marcoshidalgob&color=%231DA1F2&label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/marcoshidalgob)
 &nbsp;&nbsp; [![X Follow](https://img.shields.io/twitter/follow/marcoshidalgob)](https://twitter.com/marcoshidalgob)
 &nbsp;&nbsp; [![Github Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FMarkosHB)](https://github.com/MarkosHB)
 
-### As I usually say... "Always learning and improving" 💻 + 📖 = 📈
-
 ### I am...
-* A Computer Science Engineer graduated from the University of Málaga.
-* Ready to begin with my professional stage after college.
-* An enthusiast of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
 
-Check my 📄[Curriculum Vitae][curriculum] for more info all in one place.
+* A **Computer Science Engineer** 💻 graduated from the University of Málaga.
+* Ready to begin with my professional 📈 stage after college.
+* An enthusiast 📖 of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
 
----
-
-### Programming habilities.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-&nbsp;&nbsp; <img src="https://img.shields.io/badge/Java-%23DD4F39.svg?style=flat&logo=oracle&logoColor=white">
-&nbsp;&nbsp; ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-&nbsp;&nbsp; ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-&nbsp;&nbsp; ![SQL](https://img.shields.io/badge/SQL-F80000.svg?&style=flat&logo=oracle&logoColor=white)
-&nbsp;&nbsp; ![Matlab](https://img.shields.io/badge/Matlab-905020.svg?&style=flat&logo=Matlab&logoColor=white)
-&nbsp;&nbsp; ![Haskell](https://img.shields.io/badge/Haskell-3776AB.svg?&style=flat&logo=haskell&logoColor=white)
-&nbsp;&nbsp; ![R](https://img.shields.io/badge/R-003B57.svg?&style=flat&logo=R&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
-&nbsp;&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) 
-&nbsp;&nbsp; <img src="https://img.shields.io/badge/Markdown-%23151515.svg?style=flat&logo=markdown&logoColor=white">
-&nbsp;&nbsp; ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
-&nbsp;&nbsp; ![Linux](https://img.shields.io/badge/Linux-181717?style=flat&logo=linux)
-&nbsp;&nbsp; ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-&nbsp;&nbsp;
+> [!Note]
+> You can check my [subject's repositories](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) and discover my projects developed during my stage at College.
 
 
-### Knowledge Areas.
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-gray?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-gray?style=flat)
-![Neuronal Networks](https://img.shields.io/badge/Neuronal%20Networks-gray?style=flat)
-![Support Vector Machines](https://img.shields.io/badge/Support%20Vector%20Machines-gray?style=flat)
+# Technical Knowledge
+This are some of the most interesting tools I have used and considered capable to handle.
 
-![Autonomous Robotics](https://img.shields.io/badge/Autonomous%20Robotics-gray?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-gray?style=flat)
-![Mapping and Pathfinding Algorithms](https://img.shields.io/badge/Mapping%20and%20Pathfinding%20Algorithms-gray?style=flat)
+| **Programming languages** | **Frameworks** | **IDEs** |
+|---------------------------|-----------------|------------------------------------------|
+| ![Programming languages](https://skillicons.dev/icons?i=python,java,haskell,r,matlab,cpp,c&perline=10) | ![Frameworks](https://skillicons.dev/icons?i=django,flask,ros,opencv&perline=10) | ![IDEs](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse&perline=10) |
 
-![Mathematics](https://img.shields.io/badge/Mathematics-gray?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-gray?style=flat)
-![Database Management](https://img.shields.io/badge/Database%20Management-gray?style=flat)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-gray?style=flat)
+| **Operating Systems** | **Virtualization Software** | **Version Control and Documentation** | **Currently Learning** |
+|-----------------------|-------------------|----------------------------------------|------------------|
+| ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,bitbucket,markdown,latex&perline=10) | ![Currently Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,kali&perline=10) |
 
-![Future](https://img.shields.io/badge/Interested%20in%20learning%20more%20about%20...%20-%20Cybersecurity%2C%20Blockchain%2C%20Cloud%20Services-white?style=social)
+> [!Important]
+> As you would expect from a junior developer, knowledge acquired is relatively superficial and therefore exists room for improvement.
 
 
-### Formation and studies.
+# Additional formation
+
 #### 🚀 MOOCs.
 *  Certificate in **[Generative AI learning path](https://www.cloudskillsboost.google/journeys/118)** innovative course by Google Cloud Skills Boost.
 *  Certificate in **[Google Project Management](https://www.coursera.org/professional-certificates/google-project-management?)** specialization made up of six courses.
@@ -72,10 +47,5 @@ Check my 📄[Curriculum Vitae][curriculum] for more info all in one place.
 *  **NVIDIA DLI Certificate – [Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)**. 
 *  **NVIDIA DLI Certificate – [Getting Started with DeepStream for Video Analytics on Jetson Nano](https://courses.nvidia.com/certificates/22239167c9994f60884829f671b29c3a)**.
 
-#### 🎓 My stage at College.
-* Check out my [subject's repositories](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md).
+---
 
-<!-- LINKS -->
-[curriculum]: ./MarcosHidalgoCV.pdf
-[tryhackme]: https://tryhackme.com/p/MarkosHB
-[hackthebox]: https://app.hackthebox.com/profile/1866797
