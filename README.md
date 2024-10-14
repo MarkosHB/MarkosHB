@@ -10,8 +10,8 @@
 ### I am...
 
 * A **Computer Science Engineer** 💻 graduated from the University of Málaga.
-* Ready to begin with my professional 📈 stage after college.
-* An enthusiast 📖 of Cybersecurity, Blockchain, Computer Vision, Robotics and AI.
+* Ready and excited to begin with my professional 💼 stage.
+* An enthusiast 📖 of Cybersecurity, AI, Blockchain, Computer Vision and Robotics.
 
 > [!Note]
 > You can check my [subject's repositories](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) and discover my projects developed during my stage at College.
@@ -24,12 +24,16 @@ This are some of the most interesting tools I have used and considered capable t
 |---------------------------|-----------------|------------------------------------------|
 | ![Programming languages](https://skillicons.dev/icons?i=python,java,haskell,r,matlab,cpp,c&perline=10) | ![Frameworks](https://skillicons.dev/icons?i=django,flask,ros,opencv&perline=10) | ![IDEs](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse&perline=10) |
 
-| **Operating Systems** | **Virtualization Software** | **Version Control and Documentation** | **Currently Learning** |
+| **Operating Systems** | **Virtualization Software** | **Version Control and Documentation** | **Databases** |
 |-----------------------|-------------------|----------------------------------------|------------------|
-| ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,bitbucket,markdown,latex&perline=10) | ![Currently Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,kali&perline=10) |
+| ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,bitbucket,markdown,latex&perline=10) | ![Databases](https://skillicons.dev/icons?i=sqlite,postgres&perline=10) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+
+| **Currently Learning** |
+|------------------|
+| ![Currently Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,kali&perline=10) |
 
 > [!Important]
-> As you would expect from a junior developer, knowledge acquired is relatively superficial and therefore exists room for improvement.
+> As you would expect from a junior developer, knowledge acquired is relatively superficial and exists room for improvement.
 
 
 # Additional formation
