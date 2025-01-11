@@ -28,9 +28,11 @@ This are some of the most interesting tools I have used and considered capable t
 |-----------------------|-------------------|----------------------------------------|------------------|
 | ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,markdown,latex&perline=10) | ![Databases](https://skillicons.dev/icons?i=supabase,postgres,sqlite&perline=10)
 
+<!-- 
 | **Currently Learning** |
 |------------------|
 | ![Currently Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,kali&perline=10) |
+-->
 
 > [!Important]
 > As you would expect from a junior developer, knowledge acquired is relatively superficial and exists room for improvement.
@@ -48,3 +50,11 @@ This are some of the most interesting tools I have used and considered capable t
 *  **NVIDIA DLI Certificate – [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/fa23c9b1177f481e98165b17fb69fc9d)**.
 *  **NVIDIA DLI Certificate – [Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)**. 
 *  **NVIDIA DLI Certificate – [Getting Started with DeepStream for Video Analytics on Jetson Nano](https://courses.nvidia.com/certificates/22239167c9994f60884829f671b29c3a)**.
+
+
+---
+
+&nbsp;
+<h3 align=center>
+  ⬇️ Feel free to visit my pinned projects and discover my most interesting ones ⬇️
+</h3>
