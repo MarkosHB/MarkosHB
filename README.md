@@ -53,5 +53,5 @@ This are some of the most interesting tools I have used and considered capable t
 
 &nbsp;
 <h3 align=center>
-  ⬇️ Feel free to visit my pinned projects and discover my most interesting ones ⬇️
+  ⬇️ Feel free to visit my pinned projects and discover the most interesting ones ⬇️
 </h3>
