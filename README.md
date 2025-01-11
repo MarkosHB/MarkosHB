@@ -51,9 +51,6 @@ This are some of the most interesting tools I have used and considered capable t
 *  **NVIDIA DLI Certificate – [Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/9cdf38e81db44420b09072d8b91d7e85)**. 
 *  **NVIDIA DLI Certificate – [Getting Started with DeepStream for Video Analytics on Jetson Nano](https://courses.nvidia.com/certificates/22239167c9994f60884829f671b29c3a)**.
 
-
----
-
 &nbsp;
 <h3 align=center>
   ⬇️ Feel free to visit my pinned projects and discover my most interesting ones ⬇️
