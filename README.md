@@ -12,6 +12,7 @@
 * A **Computer Science Engineer** 💻 graduated from the University of Málaga.
 * Ready and excited to begin with my professional 💼 stage.
 * An enthusiast 📖 of AI, Cybersecurity, Blockchain, Computer Vision and Robotics.
+* Learn more about me by visiting my CV 📋 in the [spanish](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV.pdf) and [english](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV_English.pdf) versions.
 
 > [!Note]
 > You can check my [subject's repositories](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) and discover my projects developed during my stage at College.
