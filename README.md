@@ -27,7 +27,7 @@ This are some of the most interesting tools I have used and considered capable t
 
 | **Operating Systems** | **Virtualization Software** | **Documentation Version Control** | **Databases** |
 |-----------------------|-------------------|----------------------------------------|------------------|
-| ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,markdown,latex&perline=10) | ![Databases](https://skillicons.dev/icons?i=supabase,postgres,sqlite&perline=10)
+| ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,markdown,latex&perline=10) | ![Databases](https://skillicons.dev/icons?i=supabase,postgres&perline=10)
 
 <!-- 
 | **Currently Learning** |
