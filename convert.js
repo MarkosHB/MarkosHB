@@ -1,12 +1,23 @@
-import fs from 'fs';
-import { convert } from 'pdf-to-html';
+const { exec } = require('child_process');
+const fs = require('fs');
+const path = require('path');
 
-const input = 'MarcosHidalgoCV.pdf';
-const output = 'index.html';
+module.exports = async (req, res) => {
+  const pdfFile = path.join(__dirname, '../myfile.pdf');
+  const outputFile = path.join(__dirname, '../output.html');
 
-convert(input, { format: 'html' })
-  .then(html => {
-    fs.writeFileSync(output, html);
-    console.log('Conversion complete');
-  })
-  .catch(err => console.error('Error converting PDF:', err));
+  // Check if PDF exists
+  if (!fs.existsSync(pdfFile)) {
+    return res.status(404).send('PDF file not found.');
+  }
+
+  // Run pdf2htmlEX to convert PDF to HTML
+  exec(`pdf2htmlEX ${pdfFile} ${outputFile}`, (err, stdout, stderr) => {
+    if (err) {
+      return res.status(500).send(`Error: ${stderr}`);
+    }
+    const html = fs.readFileSync(outputFile, 'utf-8');
+    res.setHeader('Content-Type', 'text/html');
+    res.send(html);
+  });
+};

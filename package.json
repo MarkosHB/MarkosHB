@@ -1,8 +1,10 @@
 {
+    "name": "pdf-to-site",
+    "version": "1.0.0",
     "scripts": {
-      "build": "node convert.js"
+      "dev": "vercel dev",
+      "build": "echo 'No build needed'"
     },
-    "dependencies": {
-      "pdf-to-html": "^1.0.0"
-    }
+    "dependencies": {}
   }
+  
