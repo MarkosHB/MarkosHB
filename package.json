@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "build": "node convert.js"
+    },
+    "dependencies": {
+      "pdf-to-html": "^1.0.0"
+    }
+  }
