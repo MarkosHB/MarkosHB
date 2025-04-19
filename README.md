@@ -3,15 +3,15 @@
 ### As I usually say... "Always learning and improving"
 
 <a href="mailto:marcoshidalgobanos@gmail.com?subject=Hi%20Marcos%20Hidalgo"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white"/></a> 
-&nbsp;&nbsp; [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad)](https://www.linkedin.com/in/marcoshidalgob)
-&nbsp;&nbsp; [![X Follow](https://img.shields.io/twitter/follow/marcoshidalgob)](https://x.com/marcoshidalgob)
-&nbsp;&nbsp; [![Github Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FMarkosHB)](https://github.com/MarkosHB)
+&nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marcoshidalgob)
+&nbsp;&nbsp; [![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FMarkosHB)](https://github.com/MarkosHB)
+&nbsp;&nbsp; [![X](https://img.shields.io/twitter/follow/marcoshidalgob)](https://x.com/marcoshidalgob)
 
 ### I am...
 
 * A **Computer Science Engineer** 💻 graduated from the University of Málaga.
-* Ready and excited to begin with my professional 💼 stage.
-* An enthusiast 📖 of AI, Cybersecurity, Blockchain, Computer Vision and Robotics.
+* Ready and excited to begin with my professional stage as **Data Science** 📊.
+* An enthusiast 📖 of AI, Blockchain, Computer Vision and Robotics.
 * Learn more about me by visiting my CV 📋 in the [spanish](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV.pdf) and [english](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV_English.pdf) versions.
 
 > [!Note]
@@ -21,19 +21,13 @@
 # Technical Knowledge
 This are some of the most interesting tools I have used and considered capable to handle.
 
-| **Programming languages** | **Frameworks** | **IDEs** |
-|---------------------------|-----------------|------------------------------------------|
-| ![Programming languages](https://skillicons.dev/icons?i=python,java,haskell,r,matlab,cpp,c&perline=10) | ![Frameworks](https://skillicons.dev/icons?i=django,flask,opencv,ros&perline=10) | ![IDEs](https://skillicons.dev/icons?i=pycharm,idea,vscode&perline=10) |
+| **Programming languages** | **Frameworks** | **Production** | **AI** |
+|---------------------------|-----------------|------------------------------------------|------------------|
+| ![Programming languages](https://skillicons.dev/icons?i=python,r,java,cpp,c&perline=10) | ![Frameworks](https://skillicons.dev/icons?i=django,opencv,flask,fastapi&perline=10) | ![Production](https://skillicons.dev/icons?i=vercel,supabase,postgres&perline=10) | ![AI](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=10) |
 
-| **Operating Systems** | **Virtualization Software** | **Documentation Version Control** | **Databases** |
+| **Operating Systems** | **Virtualization Software** | **Version Control & Docs** | **IDEs** |
 |-----------------------|-------------------|----------------------------------------|------------------|
-| ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,markdown,latex&perline=10) | ![Databases](https://skillicons.dev/icons?i=supabase,postgres&perline=10)
-
-<!-- 
-| **Currently Learning** |
-|------------------|
-| ![Currently Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,kali&perline=10) |
--->
+| ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,ubuntu,debian&perline=10) | ![Virtualization Software](https://skillicons.dev/icons?i=docker,kubernetes,anaconda&perline=10) | ![Version Control](https://skillicons.dev/icons?i=git,github,markdown,latex&perline=10) | ![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,idea&perline=10) | 
 
 > [!Important]
 > As you would expect from a junior developer, knowledge acquired is relatively superficial and exists room for improvement.
@@ -42,7 +36,6 @@ This are some of the most interesting tools I have used and considered capable t
 # Additional formation
 
 #### 🚀 MOOCs.
-*  Certificate in **[Generative AI learning path](https://www.cloudskillsboost.google/journeys/118)** innovative course by Google Cloud Skills Boost.
 *  Certificate in **[Google Project Management](https://www.coursera.org/professional-certificates/google-project-management?)** specialization made up of six courses.
 *  Certificate by University of Michigan in **[Python 4 Everybody](https://www.coursera.org/specializations/python)** specialization made up of five courses.
 *  Certificate by University of Granada in **[Machine Learning and Big Data in Bioinformatics](https://abierta.ugr.es/course/view.php?id=57)**.
