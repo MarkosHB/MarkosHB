@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm [Marcos Hidalgo](https://github.com/MarkosHB) 
+# 👋 Hello there! I'm [Marcos Hidalgo](https://marcoshidalgo.vercel.app/) 
 
 ### As I usually say... "Always learning and improving"
 
@@ -12,10 +12,11 @@
 * A **Computer Science Engineer** 💻 graduated from the University of Málaga.
 * Ready and excited to begin with my professional stage as **Data Science** 📊.
 * An enthusiast 📖 of AI, Blockchain, Computer Vision and Robotics.
-* Learn more about me by visiting my CV 📋 in the [spanish](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV.pdf) and [english](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV_English.pdf) versions.
 
 > [!Note]
-> You can check my [subject's repositories](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) and discover my projects developed during my stage at College.
+> * Learn more about me by visiting my CV 📋 in the [spanish](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV.pdf) and [english](https://github.com/MarkosHB/MarkosHB/blob/main/MarcosHidalgoCV_English.pdf) versions.
+> * You can check my [subject's repositories](https://github.com/MarkosHB/MarkosHB/blob/main/UniversitySubjects.md) and discover my projects developed during my stage at College.
+> * Additionally, you may visit my [Littlelink](https://marcoshidalgo.vercel.app/) personal website to get to know me better and contact each other.
 
 
 # Technical Knowledge
