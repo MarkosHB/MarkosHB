@@ -10,7 +10,7 @@
 ### I am...
 
 * A **Computer Science Engineer** 💻 graduated from the University of Málaga.
-* Ready and excited to begin with my professional stage as **Data Science** 📊.
+* Ready and excited to begin with my professional stage as **Data Scientist** 📊.
 * An enthusiast 📖 of AI, Blockchain, Computer Vision and Robotics.
 
 > [!Note]
